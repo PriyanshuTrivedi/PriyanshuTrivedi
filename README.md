@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriyanshuTrivedi
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently try to start learning development
+- 🌱 I’m currently trying to start web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
